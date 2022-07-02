@@ -16,7 +16,7 @@ CKAN__PLUGINS=envvars image_view text_view recline_view datastore datapusher
 CKAN__STORAGE_PATH=/srv/app/data
 CKAN__WEBASSETS__PATH=/srv/app/data/webassets
 # SYSADMIN settings, a sysadmin user is created automatically with the below credentials
-CKAN_SYSADMIN_NAME=sysadmin
+CKAN_SYSADMIN_NAME=Abc123@@
 CKAN_SYSADMIN_PASSWORD=password
 CKAN_SYSADMIN_EMAIL=sysadmin@ckantest.com
 
